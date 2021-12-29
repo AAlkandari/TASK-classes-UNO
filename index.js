@@ -49,7 +49,7 @@ class Card {
  
     //cards.push(green);
     //cards.push(blue);
-    //cards.push(red);
+   // cards.push(red);
     //cards.push(yellow);
     
  uno = (color) => {
@@ -58,9 +58,14 @@ class Card {
   }
 }
 uno("Green");
+uno("Green");
+uno("Blue");
 uno("Blue");
 uno("Red");
+uno("Red");
 uno("Yellow");
+uno("Yellow");
+
 /**
  *
  * Don't touch this code
